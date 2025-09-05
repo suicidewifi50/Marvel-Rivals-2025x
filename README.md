@@ -71,3 +71,4 @@ Unleash your full potential in **Marvel Rivals**. Gain precision, awareness, and
 | **Stream-safe?**                 | Yes, works with OBS & Discord.                |
 | **Support?**                     | Access via our loader community.             |
 | **Can I customize visuals?**     | Yes, Chams, overlays & transparency included. |
+ 
