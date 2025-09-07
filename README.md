@@ -72,3 +72,4 @@ Unleash your full potential in **Marvel Rivals**. Gain precision, awareness, and
 | **Support?**                     | Access via our loader community.             |
 | **Can I customize visuals?**     | Yes, Chams, overlays & transparency included. |
  
+ 
